@@ -1,7 +1,4 @@
-using Domain;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.EntityFrameworkCore;
-using Persistance;
 
 namespace API.Controllers
 {
